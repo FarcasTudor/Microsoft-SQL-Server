@@ -1,0 +1,13 @@
+use Shaormerie
+go
+
+execute modifTipColoana
+execute undoModifTipColoana
+execute addConstraint
+execute removeDefaultConstraint
+execute createTabel
+execute removeTabel
+execute addColumn
+execute removeColumn
+execute createForeignKey
+execute removeForeignKey
